@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://yicaowebsite2.netlify.app"
+baseURL = "https://yicaowebsite6.netlify.app"
 languageCode = "en-us"
 title = "Portfolio website for Yi Cao"
 theme = "forty"
@@ -181,7 +181,7 @@ disqusShortname = ""
     [[params.contact.address]]
     title = "Address"
     street = "Street"
-    city = "City, ST 00000"
+    city = "Suzhou, ST 00000"
     country = "China"
 
   # Footer section
